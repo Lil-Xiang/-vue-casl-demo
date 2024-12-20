@@ -24,4 +24,3 @@ npm run build
 vue-router
 vue3
 ```
-# -vue-casl-demo
